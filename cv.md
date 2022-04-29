@@ -2,7 +2,7 @@ Valeria Glekova
 
 *Student*
 
-<img src="https://github.com/glekova2805/CV/blob/markdowm-cv/Hglw3BjxbWC7PDaqfgsVWHrp0zfCAdBHp1-kFLnAt4nccrbP621BQJh1IjGlBCxEbmt164sfsOUglhhup8PSyD4b" width=150)
+![my photo](https://github.com/glekova2805/CV/blob/markdowm-cv/Hglw3BjxbWC7PDaqfgsVWHrp0zfCAdBHp1-kFLnAt4nccrbP621BQJh1IjGlBCxEbmt164sfsOUglhhup8PSyD4b.jpg)
 
 
 Contact information:
